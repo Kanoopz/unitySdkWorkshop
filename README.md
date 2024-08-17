@@ -10,4 +10,6 @@
 - UNITY SDK:
   
       git clone https://github.com/PolkadotPlay/Polkadot.Unity.SDK/tree/master
-- NetApi: https://github.com/ajuna-network/Ajuna.SDK?tab=readme-ov-file
+- NetApi:
+
+      git clone https://github.com/ajuna-network/SubstrateNET.BasicUnityDemo.git
